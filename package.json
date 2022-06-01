@@ -16,6 +16,7 @@
     "@discordjs/builders": "^0.8.2",
     "@sapphire/ts-config": "^3.1.6",
     "chalk": "^3.0.0",
+    "comma-number": "^2.1.0",
     "discord-api-types": "^0.26.1",
     "discord.js": "^13.2.0",
     "dokdo": "^0.5.1",
@@ -27,6 +28,7 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
+    "@types/comma-number": "^2.1.0",
     "@types/node": "^16.11.12",
     "@types/uuid": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "^5.10.2",
